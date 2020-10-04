@@ -12,3 +12,11 @@ the API stores it in the database, and finally posts it in Slack.
 The frontend keeps a record of the past messages.
 
 ![chatbot](./assets/chatbot.gif)
+
+## Blackbaud Capstone Project
+
+For my senior capstone project, I partnered with
+Blackbaud labs to create a Twitch chatbot.
+The chatbot went off every x amount of minutes within
+the streaming channel. A [video](https://www.youtube.com/watch?v=meib3fikdrI)
+was filmed on more details of the project.
