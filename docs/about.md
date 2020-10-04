@@ -5,11 +5,9 @@ title: About
 
 Meagan Gould is currently an Engineer at Soteria LLC. She works in fullstack software development and operations. 
 
-## Current Role
+## Resume
 
-Engineer
+![](website/static/resume/Meagan Gould Resume.png)
 
-## Recognition
 
-- 2019 GHC Scholars 
 
